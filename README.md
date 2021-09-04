@@ -21,3 +21,4 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git status](./Commands/Status.md)
 
+-m[git clone](./Commands/Clone.md)
